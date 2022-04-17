@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Developer Name Rakib Hosen
+it is a facebook profile [Facebook Rakib](https://www.facebook.com/rakibthpi/)
+
 ## Available Scripts
 
 In the project directory, you can run:
