@@ -14,7 +14,10 @@ const Countrys = (props) => {
             <h1>Hello Template</h1>
             <div className='rakib'>
                 {
-                    countrys.map(country => <Country country={country}></Country>)
+                    countrys.map(country => <Country 
+                        country={country}
+                        key = {country.cca3}
+                        ></Country>)
                 }
             </div>
         </div>
